@@ -1,0 +1,17 @@
+[
+    {
+        "location": "Shymkent",
+        "title": "Sup",
+        "stars": 4
+    },
+    {
+        "location": "Almaty",
+        "title": "Bread",
+        "stars": 2
+    },
+    {
+        "location": "Uralsk",
+        "title": "Besh",
+        "stars": 2
+    }
+]
